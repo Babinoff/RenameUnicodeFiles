@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameUnicodeFilesNet6App", "RenameUnicodeFilesNet6App.csproj", "{D8F7E0AA-4AC9-4887-A163-B381E3AF1FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F7E0AA-4AC9-4887-A163-B381E3AF1FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F7E0AA-4AC9-4887-A163-B381E3AF1FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F7E0AA-4AC9-4887-A163-B381E3AF1FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F7E0AA-4AC9-4887-A163-B381E3AF1FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B96E928-D18D-4317-8707-815B508FD352}
+	EndGlobalSection
+EndGlobal
